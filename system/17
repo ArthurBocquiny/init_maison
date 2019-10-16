@@ -1,0 +1,1 @@
+ssh <username_distant>@<host_distant> (si meme machine + systeme local on peut faire juste ssh <host_distant>)

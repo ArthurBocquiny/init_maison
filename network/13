@@ -1,0 +1,1 @@
+host 10.51.1.253 | rev | cut -d " " -f1 | cut -c 2- | rev

@@ -1,0 +1,3 @@
+ls /etc/rc*.d
+
+Ce type de service s'appelle des 'daemons'.

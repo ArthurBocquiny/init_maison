@@ -1,0 +1,1 @@
+echo "Avec traceroute on trouve qu'apres avoir envoye la requete au gateway par defaut, le packet est envoye a 'nat-1 (10.60.1.11)', qui corespond a un traducteur d'adresse ip appartenant a un intranet a une adresse ip exterieur, ce qui fait ainsi le lien entre l'intranet et l'exterieur"

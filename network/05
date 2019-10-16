@@ -1,0 +1,2 @@
+echo "adresse ip de 'slash16.org' = "
+echo "ping -G 1 slash16.org | grep "8 bytes" | cut -d " " -f4 | rev | cut -c 2- | rev"

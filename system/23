@@ -1,0 +1,8 @@
+En session ssh utiliser la commande :
+
+sudo ssh <username>@<servername> (localhost ici)
+
+En session graphique :
+
+En haut a droite cliquer sur la fleche du bas, puis sur son username et dans le menu deroulant choisir <Changer d'utilisateur>.
+Se connecter a l'utilisateur recemment cree.

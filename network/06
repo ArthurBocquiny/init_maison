@@ -1,0 +1,1 @@
+echo "L'ip du serveur DNS se trouve au path '/etc/resolv.conf'"

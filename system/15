@@ -1,0 +1,1 @@
+ps -ef | grep -m 1 "sudo tail -f /var/log/syslog" | cut -d " " -f7 | xargs sudo kill
